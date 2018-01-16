@@ -33,6 +33,6 @@ exclude:
 
 defaults:
   - scope:
-      path: "assets/images"
+      path: "/assets/images"
     values:
       image: true
