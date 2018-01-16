@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![Author Photo]({{ "/assets/images/M-Broussard-small.jpg" | absolute_url }})
+![Author Photo]({{ "/assets/images/M-Broussard-small.jpg" | relative_url }})
 
 My new book will be published in April 2018 by MIT Press. [*Artificial Unintelligence: How Computers Misunderstand the World*](https://mitpress.mit.edu/books/artificial-unintelligence) is a guide to understanding the inner workings and outer limits of technology and why we should never assume that computers always get it right.
 
