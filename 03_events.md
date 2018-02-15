@@ -16,6 +16,8 @@ weight: 3
 
 4/25 [Data Science Seminar](http://data.uw.edu/seminar/), University of Washington, Seattle, WA
 
+4/28 [Reading at Big Blue Marble Bookstore,](https://www.bigbluemarblebooks.com/) Philadelphia, PA
+
 4/30 [Book launch event,](https://journalism.nyu.edu/) Arthur L. Carter Journalism Institute, New York University
 
 ## May
