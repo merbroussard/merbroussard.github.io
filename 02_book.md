@@ -9,3 +9,12 @@ In *[Artificial Unintelligence,](https://www.amazon.com/Artificial-Unintelligenc
 
 Making a case against *technochauvinism*—the belief that technology is always the solution—Broussard argues that it’s just not true that social problems would inevitably retreat before a digitally enabled Utopia. To prove her point, she undertakes a series of adventures in computer programming. She goes for an alarming ride in a driverless car, concluding “the cyborg future is not coming any time soon”; uses artificial intelligence to investigate why students can’t pass standardized tests; deploys machine learning to predict which passengers survived the Titanic disaster; and attempts to repair the U.S. campaign finance system by building AI software. If we understand the limits of what we can do with technology, Broussard tells us, we can make better choices about what we should do with it to make the world better for everyone.
 
+**The book in the media:**
+
+[Self-Driving Cars Still Don't Know How to See](https://www.theatlantic.com/technology/archive/2018/03/uber-self-driving-fatality-arizona/556001/) *The Atlantic*
+
+[Minding over machine: the AI race](http://www.chinadaily.com.cn/a/201804/14/WS5ad1200ba3105cdcf65183d4.html) *China Daily*
+
+[What the sinking of the Titanic reveals about A.I.](https://www.futurity.org/titanic-aritificial-intelligence-book-1713412/) *Futurity*
+
+[Forthcoming Books on Social Media, Privacy and Technological Change](https://www.insidehighered.com/views/2018/03/23/overview-forthcoming-university-press-books-social-media-privacy-and-technology) *Inside Higher Ed*
