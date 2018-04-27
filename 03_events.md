@@ -9,11 +9,11 @@ weight: 3
 
 4/13 [Artificial Unintelligence: The Rise of Disinformation and Fake News,](http://www.nabj.org/event/Region1Conf2018) 2018 NABJ Region I Conference & Global Diversity Summit, New York, NY
 
-4/25 [Data Science Seminar](http://data.uw.edu/seminar/), University of Washington, Seattle, WA
+4/25 [Data Science Seminar](http://escience.washington.edu/uw-data-science-seminar/broussard), University of Washington, Seattle, WA
 
-4/28 [Reading at Big Blue Marble Bookstore,](https://www.bigbluemarblebooks.com/) Philadelphia, PA
+4/28 [Reading at Big Blue Marble Bookstore,](https://www.bigbluemarblebooks.com/events-and-calendar/2018/4/28/meredith-broussard-artificial-unintelligence-book-launch) Philadelphia, PA
 
-4/30 [Reading and book launch event,](https://journalism.nyu.edu/) Arthur L. Carter Journalism Institute, New York University
+4/30 [Reading and book launch event,](https://journalism.nyu.edu/about-us/event/2018-spring/book-launch-artificial-unintelligence-by-meredith-broussard/) Arthur L. Carter Journalism Institute, New York University
 
 ## May
 
