@@ -11,6 +11,12 @@ Making a case against *technochauvinism*—the belief that technology is always 
 
 **The book in the media:**
 
+[Talking with Meredith Broussard about Artificial Unintelligence](http://www.latimes.com/books/la-ca-jc-meredith-broussard-20180426-htmlstory.html) *LA Times*
+
+[New book exposes "technochauvinism"](http://www.cbc.ca/radio/spark/spark-396-1.4646907/new-book-exposes-technochauvanism-1.4648846) *CBC Spark*
+
+[Self-Driving Cars Are a Terrible Idea: The Self-Driving Office Edition](https://www.slate.com/articles/podcasts/slate_money/2018/04/slate_money_on_self_driving_cars_ford_and_wework_debt.html) *Slate Money Podcast*
+
 [Self-Driving Cars Still Don't Know How to See](https://www.theatlantic.com/technology/archive/2018/03/uber-self-driving-fatality-arizona/556001/) *The Atlantic*
 
 [Minding over machine: the AI race](http://www.chinadaily.com.cn/a/201804/14/WS5ad1200ba3105cdcf65183d4.html) *China Daily*
