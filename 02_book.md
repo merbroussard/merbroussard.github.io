@@ -11,6 +11,8 @@ Making a case against *technochauvinism*—the belief that technology is always 
 
 **The book in the media:**
 
+[Why the Scots are such a struggle for Alexa and Siri](http://www.heraldscotland.com/opinion/columnists/16219100.Agenda__Why_the_Scots_are_such_a_struggle_for_Alexa_and_Siri/): because technochauvinism. *Scotland Herald*
+
 [Talking with Meredith Broussard about Artificial Unintelligence](http://www.latimes.com/books/la-ca-jc-meredith-broussard-20180426-htmlstory.html) *LA Times*
 
 [New book exposes "technochauvinism"](http://www.cbc.ca/radio/spark/spark-396-1.4646907/new-book-exposes-technochauvanism-1.4648846) *CBC Spark*
