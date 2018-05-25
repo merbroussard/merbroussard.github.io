@@ -9,15 +9,24 @@ weight: 3
 
 5/9 [Reading and Conversation with David Daley, author of Ratf--ked, at the MIT Bookstore,](https://www.eventbrite.com/e/meredith-broussard-artificial-unintelligence-tickets-41967403634) Cambridge, MA
 
-5/14 [Confronting Algorithms of Oppression,](http://www.roosevelthouse.hunter.cuny.edu/events/ssrc-algorithms-of-oppression/) Hunter College, New York, NY Live interview of Safiya Noble, whose book _Algorithms of Oppression_ argues that search engines reflect the underlying power structures of the societies in which they are built. Sponsored by [SSRC](https://www.ssrc.org/events/view/confronting-algorithims-of-oppression/) & the Roosevelt House Public Policy Institute at Hunter College.
+5/14 [Confronting Algorithms of Oppression,](http://www.roosevelthouse.hunter.cuny.edu/events/ssrc-algorithms-of-oppression/) Hunter College, New York, NY Event with Safiya Noble, whose book _Algorithms of Oppression_ argues that search engines reflect the underlying power structures of the societies in which they are built. Sponsored by [SSRC](https://www.ssrc.org/events/view/confronting-algorithims-of-oppression/) & the Roosevelt House Public Policy Institute at Hunter College.
 
 5/31 [The Consequences of Misinformation,](https://www.ssrc.org/events/view/the-consequences-of-misinformation/) The Brookings Institution, Washington, DC. Sponsored by SSRC and The Brookings Institution.
 
 ## June
 
-6/2 Impact Summit, New York, NY
+6/2 [Impact Summit,](http://www.theimpactsummit.org/) New York, NY
 
-6/14 [IRE Annual Conference,](https://ire.org/conferences/ire-2018/schedule/) Orlando, FL
+6/14 [Book event and data journalism workshops, IRE Annual Conference,](https://ire.org/conferences/ire-2018/schedule/) Orlando, FL
+
+## August
+
+8/1 [National Association of Black Journalists Annual Convention,](http://www.nabjconvention.com) Detroit, MI
+
+8/25 [Byline Festival,](https://www.bylinefestival.com/) Sussex, UK
+
+## September
+9/6 [Ars Electronica Festival, "Error: The Art of Imperfection,"](https://www.aec.at/error/de/) Linz, Austria
 
 ## Past Events
 
