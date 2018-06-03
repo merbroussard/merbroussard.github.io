@@ -4,6 +4,10 @@ title: Other Writing
 permalink: /writing/
 weight: 4
 ---
+[The Dirty Truth Coming for Self-Driving Cars](https://slate.com/technology/2018/05/who-will-clean-self-driving-cars.html): Who will clean autonomous taxis? Nobody. Gross. *Slate*
+
+[Why the Scots are such a struggle for Alexa and Siri](http://www.heraldscotland.com/opinion/columnists/16219100.Agenda__Why_the_Scots_are_such_a_struggle_for_Alexa_and_Siri/): because technochauvinism. *Scotland Herald*
+
 [Self-Driving Cars Still Don't Know How to See: Uber, Arizona, and the Limits of Driverless Cars](https://www.theatlantic.com/technology/archive/2018/03/uber-self-driving-fatality-arizona/556001/) *The Atlantic, March 2018*
 
 [Why broken technology hurts democracy](https://www.theatlantic.com/technology/archive/2017/05/broken-technology-hurts-democracy/524076/) *The Atlantic, May 2017*
