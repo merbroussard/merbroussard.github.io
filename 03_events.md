@@ -15,7 +15,9 @@ weight: 3
 
 9/5 [Humanity + Tech,](http://humanitytech.theatlantic.com) The Atlantic Live, MIT Media Lab, Boston, MA
 
-9/6 [Ars Electronica Festival, "Error: The Art of Imperfection,"](https://www.aec.at/error/de/) Linz, Austria
+9/7 [Ars Electronica Festival, "Error: The Art of Imperfection,"](https://www.aec.at/error/de/) Linz, Austria
+
+9/14 [Online News Association Conference,](https://ona18.journalists.org) Austin, TX
 
 9/27 Hacks/Hackers NYC event, Betaworks, NY, NY
 
