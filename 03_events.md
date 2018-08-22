@@ -13,9 +13,23 @@ weight: 3
 
 ## September
 
-9/5 The Atlantic Live, Boston, MA
+9/5 [Humanity + Tech,](http://humanitytech.theatlantic.com) The Atlantic Live, MIT Media Lab, Boston, MA
 
 9/6 [Ars Electronica Festival, "Error: The Art of Imperfection,"](https://www.aec.at/error/de/) Linz, Austria
+
+9/27 Hacks/Hackers NYC event, Betaworks, NY, NY
+
+## October
+
+10/4 NYU Bookstore, New York, NY
+
+## November
+
+11/2 AI in Journalism Symposium, Syracuse University, Syracuse, NY
+
+## February 2019
+
+2/1 [Computation + Journalism Symposium,](http://cj2017.northwestern.edu) Miami, FL
 
 ## Past Events
 
