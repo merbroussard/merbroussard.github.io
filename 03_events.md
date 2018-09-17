@@ -5,12 +5,6 @@ permalink: /events/
 weight: 3
 ---
 
-## August
-
-8/1 [National Association of Black Journalists Annual Convention,](https://www.nabjconvention.com/profile.cfm?profile_name=session&master_key=5A0D4EAB-AD16-674D-9639-E294A7E7EA86&xdetail&xtemplate) Detroit, MI
-
-8/25 [Workshop: Democratizing Artificial Intelligence with Data Journalism, Byline Festival,](https://www.bylinefestival.com/workshop-3-2018/2018/8/26/democratizing-artificial-intelligence-with-data-journalism) Sussex, UK
-
 ## September
 
 9/5 [Humanity + Tech,](http://humanitytech.theatlantic.com) The Atlantic Live, MIT Media Lab, Boston, MA
@@ -19,11 +13,11 @@ weight: 3
 
 9/14 [Online News Association Conference,](https://ona18.journalists.org) Austin, TX
 
-9/27 Hacks/Hackers NYC event, Betaworks, NY, NY
+9/27 [Demystifying AI with Hacks/Hackers NYC,](https://www.eventbrite.com/e/demystifying-ai-with-hackshackers-nyc-tickets-50332488829?aff=panel) Betaworks Studios, NY, NY
 
 ## October
 
-10/4 NYU Bookstore, New York, NY
+10/4 [Reading at NYU Bookstore,](https://www.bkstr.com/webapp/wcs/stores/servlet/FLStoreNewsAndEventsView?catalogId=10001&storeId=472405&langId=-1) 726 Broadway, New York, NY, 6-7:30 PM
 
 ## November
 
@@ -64,3 +58,10 @@ weight: 3
 6/2 [Impact Summit,](http://www.theimpactsummit.org/) New York, NY
 
 6/14 [Book event and data journalism workshops, IRE Annual Conference,](https://ire.org/conferences/ire-2018/schedule/) Orlando, FL
+
+## August
+
+8/1 [National Association of Black Journalists Annual Convention,](https://www.nabjconvention.com/profile.cfm?profile_name=session&master_key=5A0D4EAB-AD16-674D-9639-E294A7E7EA86&xdetail&xtemplate) Detroit, MI
+
+8/25 [Workshop: Democratizing Artificial Intelligence with Data Journalism, Byline Festival,](https://www.bylinefestival.com/workshop-3-2018/2018/8/26/democratizing-artificial-intelligence-with-data-journalism) Sussex, UK
+
