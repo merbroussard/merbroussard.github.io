@@ -13,7 +13,9 @@ weight: 3
 
 9/14 [Online News Association Conference,](https://ona18.journalists.org) Austin, TX
 
-9/27 [Demystifying AI with Hacks/Hackers NYC,](https://www.eventbrite.com/e/demystifying-ai-with-hackshackers-nyc-tickets-50332488829?aff=panel) Betaworks Studios, NY, NY
+9/25 [Intelligent Future,](http://intelligentfuture.theatlantic.com/) an event at which *The Atlantic* will gather technologists and entrepreneurs, deep thinkers and doers to explore the future and power of artificial intelligence. Neue House, NYC, 5:30-7:30 PM
+
+9/27 [Demystifying AI with Hacks/Hackers NYC,](https://www.eventbrite.com/e/demystifying-ai-with-hackshackers-nyc-tickets-50332488829?aff=panel) a panel discussion with [Solon Barocas,](http://solon.barocas.org/) [Luis Daniel,](http://luisdaniel.com/) and [Madeline Clare Elish.](https://datasociety.net/people/elish-madeleine-clare/) Betaworks Studios, NY, NY
 
 ## October
 
@@ -22,6 +24,8 @@ weight: 3
 ## November
 
 11/2 AI in Journalism Symposium, Syracuse University, Syracuse, NY
+
+11/7 Reading and social event with [Cyrus Farivar,](https://www.mhpbooks.com/books/habeas-data/) author of *Habeas Data: Privacy vs. the Rise of Surveillance Tech.* [RSVP requested.](https://www.eventbrite.com/e/reading-habeas-data-and-artificial-unintelligence-tickets-50431983420) Molasses Books, Brooklyn, NY 
 
 ## February 2019
 
