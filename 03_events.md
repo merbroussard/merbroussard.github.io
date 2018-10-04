@@ -21,6 +21,7 @@ weight: 3
 
 11/7 Reading and social event with [Cyrus Farivar,](https://www.mhpbooks.com/books/habeas-data/) author of *Habeas Data: Privacy vs. the Rise of Surveillance Tech.* [RSVP requested.](https://www.eventbrite.com/e/reading-habeas-data-and-artificial-unintelligence-tickets-50431983420) Molasses Books, Brooklyn, NY 
 
+11/9 Data for Good lecture, Columbia Data Science Institute.
 
 ## Past Events
 
