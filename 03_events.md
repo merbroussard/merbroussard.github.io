@@ -5,21 +5,13 @@ permalink: /events/
 weight: 3
 ---
 
-## September
-
-9/5 [Humanity + Tech,](http://humanitytech.theatlantic.com) The Atlantic Live, MIT Media Lab, Boston, MA
-
-9/7 [Ars Electronica Festival, "Error: The Art of Imperfection,"](https://www.aec.at/error/de/) Linz, Austria
-
-9/14 [Online News Association Conference,](https://ona18.journalists.org) Austin, TX
-
-9/25 [Intelligent Future,](http://intelligentfuture.theatlantic.com/) an event at which *The Atlantic* will gather technologists and entrepreneurs, deep thinkers and doers to explore the future and power of artificial intelligence. Neue House, NYC, 5:30-7:30 PM
-
-9/27 [Demystifying AI with Hacks/Hackers NYC,](https://www.eventbrite.com/e/demystifying-ai-with-hackshackers-nyc-tickets-50332488829?aff=panel) a panel discussion with [Solon Barocas,](http://solon.barocas.org/) [Luis Daniel,](http://luisdaniel.com/) and [Madeline Clare Elish.](https://datasociety.net/people/elish-madeleine-clare/) Betaworks Studios, NY, NY
-
 ## October
 
 10/4 [Reading at NYU Bookstore,](https://www.bkstr.com/webapp/wcs/stores/servlet/FLStoreNewsAndEventsView?catalogId=10001&storeId=472405&langId=-1) 726 Broadway, New York, NY, 6-7:30 PM
+
+10/22 Technology’s Role in Media, Data Journalism, and Fighting Fake News, [Fast Company Innovation Festival.](https://fastcompany.swoogo.com/innovationfestival18/about) Hosted by Columbia Journalism School, New York University, the International Consortium of Investigative Journalists (ICIJ), and Neo4j. New York, NY, 3:30 PM.
+
+10/29 [Beyond the Headlines: Media, Misinformation, and Democracy,](https://www.wfpg.org/mc/community/eventdetailsPrint.do?print=true&eventId=549323) a conversation with Anya Schriffrin, Director of the Technology, Media, and Communications Specialization at Columbia University's School of International and Public Affairs. Sponsored by the Women's Foreign Policy Group (WFPG) and IIE.
 
 ## November
 
@@ -27,9 +19,6 @@ weight: 3
 
 11/7 Reading and social event with [Cyrus Farivar,](https://www.mhpbooks.com/books/habeas-data/) author of *Habeas Data: Privacy vs. the Rise of Surveillance Tech.* [RSVP requested.](https://www.eventbrite.com/e/reading-habeas-data-and-artificial-unintelligence-tickets-50431983420) Molasses Books, Brooklyn, NY 
 
-## February 2019
-
-2/1 [Computation + Journalism Symposium,](http://cj2017.northwestern.edu) Miami, FL
 
 ## Past Events
 
@@ -68,4 +57,17 @@ weight: 3
 8/1 [National Association of Black Journalists Annual Convention,](https://www.nabjconvention.com/profile.cfm?profile_name=session&master_key=5A0D4EAB-AD16-674D-9639-E294A7E7EA86&xdetail&xtemplate) Detroit, MI
 
 8/25 [Workshop: Democratizing Artificial Intelligence with Data Journalism, Byline Festival,](https://www.bylinefestival.com/workshop-3-2018/2018/8/26/democratizing-artificial-intelligence-with-data-journalism) Sussex, UK
+
+## September
+
+9/5 [Humanity + Tech,](http://humanitytech.theatlantic.com) The Atlantic Live, MIT Media Lab, Boston, MA
+
+9/7 [Ars Electronica Festival, "Error: The Art of Imperfection,"](https://www.aec.at/error/de/) Linz, Austria
+
+9/14 [Online News Association Conference,](https://ona18.journalists.org) Austin, TX
+
+9/25 [Intelligent Future,](http://intelligentfuture.theatlantic.com/) an event at which *The Atlantic* will gather technologists and entrepreneurs, deep thinkers and doers to explore the future and power of artificial intelligence. Neue House, NYC, 5:30-7:30 PM
+
+9/27 [Demystifying AI with Hacks/Hackers NYC,](https://www.eventbrite.com/e/demystifying-ai-with-hackshackers-nyc-tickets-50332488829?aff=panel) a panel discussion with [Solon Barocas](http://solon.barocas.org/) and [Luis Daniel.](http://luisdaniel.com/) Betaworks Studios, NY, NY
+
 
