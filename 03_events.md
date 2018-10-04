@@ -9,6 +9,8 @@ weight: 3
 
 10/4 [Reading at NYU Bookstore,](https://www.bkstr.com/webapp/wcs/stores/servlet/FLStoreNewsAndEventsView?catalogId=10001&storeId=472405&langId=-1) 726 Broadway, New York, NY, 6-7:30 PM
 
+10/18 Artificial Intelligence: Stop Fearing It and Start Understanding It, [Chicago Ideas Festival,](https://www.chicagoideas.com/events/artificial-intelligence-stop-fearing-it-and-start-understanding-it) with Molly Wood, Jonathan Taplin, and Steve Weber. Chicago, IL, 4 PM.
+
 10/22 Technology’s Role in Media, Data Journalism, and Fighting Fake News, [Fast Company Innovation Festival.](https://fastcompany.swoogo.com/innovationfestival18/about) Hosted by Columbia Journalism School, New York University, the International Consortium of Investigative Journalists (ICIJ), and Neo4j. New York, NY, 3:30 PM.
 
 10/29 [Beyond the Headlines: Media, Misinformation, and Democracy,](https://www.wfpg.org/mc/community/eventdetailsPrint.do?print=true&eventId=549323) a conversation with Anya Schriffrin, Director of the Technology, Media, and Communications Specialization at Columbia University's School of International and Public Affairs. Sponsored by the Women's Foreign Policy Group (WFPG) and IIE.
