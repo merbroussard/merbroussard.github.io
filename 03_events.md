@@ -5,16 +5,6 @@ permalink: /events/
 weight: 3
 ---
 
-## October
-
-10/4 [Reading at NYU Bookstore,](https://www.bkstr.com/webapp/wcs/stores/servlet/FLStoreNewsAndEventsView?catalogId=10001&storeId=472405&langId=-1) 726 Broadway, New York, NY, 6-7:30 PM
-
-10/18 Artificial Intelligence: Stop Fearing It and Start Understanding It, [Chicago Ideas Festival,](https://www.chicagoideas.com/events/artificial-intelligence-stop-fearing-it-and-start-understanding-it) with Molly Wood, Jonathan Taplin, and Steve Weber. Chicago, IL, 4 PM.
-
-10/22 Technology’s Role in Media, Data Journalism, and Fighting Fake News, [Fast Company Innovation Festival.](https://fastcompany.swoogo.com/innovationfestival18/about) Hosted by Columbia Journalism School, New York University, the International Consortium of Investigative Journalists (ICIJ), and Neo4j. New York, NY, 3:30 PM.
-
-10/29 [Beyond the Headlines: Media, Misinformation, and Democracy,](https://www.wfpg.org/mc/community/eventdetailsPrint.do?print=true&eventId=549323) a conversation with Anya Schriffrin, Director of the Technology, Media, and Communications Specialization at Columbia University's School of International and Public Affairs. Sponsored by the Women's Foreign Policy Group (WFPG) and IIE.
-
 ## November
 
 11/2 AI in Journalism Symposium, Syracuse University, Syracuse, NY
@@ -22,6 +12,12 @@ weight: 3
 11/7 Reading and social event with [Cyrus Farivar,](https://www.mhpbooks.com/books/habeas-data/) author of *Habeas Data: Privacy vs. the Rise of Surveillance Tech.* [RSVP requested.](https://www.eventbrite.com/e/reading-habeas-data-and-artificial-unintelligence-tickets-50431983420) Molasses Books, Brooklyn, NY 
 
 11/9 Data for Good lecture, Columbia Data Science Institute.
+
+## December
+12/5 [Fantastic Futures conference](https://www.nb.no/artikler/fantastic-futures/), Oslo, Norway
+
+## January
+1/24 [Zee Jaipur Literary Festival](https://jaipurliteraturefestival.org/), Jaipur, India
 
 ## Past Events
 
@@ -72,5 +68,16 @@ weight: 3
 9/25 [Intelligent Future,](http://intelligentfuture.theatlantic.com/) an event at which *The Atlantic* will gather technologists and entrepreneurs, deep thinkers and doers to explore the future and power of artificial intelligence. Neue House, NYC, 5:30-7:30 PM
 
 9/27 [Demystifying AI with Hacks/Hackers NYC,](https://www.eventbrite.com/e/demystifying-ai-with-hackshackers-nyc-tickets-50332488829?aff=panel) a panel discussion with [Solon Barocas](http://solon.barocas.org/) and [Luis Daniel.](http://luisdaniel.com/) Betaworks Studios, NY, NY
+
+## October
+
+10/4 [Reading at NYU Bookstore,](https://www.bkstr.com/webapp/wcs/stores/servlet/FLStoreNewsAndEventsView?catalogId=10001&storeId=472405&langId=-1) 726 Broadway, New York, NY, 6-7:30 PM
+
+10/18 Artificial Intelligence: Stop Fearing It and Start Understanding It, [Chicago Ideas Festival,](https://www.chicagoideas.com/events/artificial-intelligence-stop-fearing-it-and-start-understanding-it) with Molly Wood, Jonathan Taplin, and Steve Weber. Chicago, IL, 4 PM.
+
+10/22 Technology’s Role in Media, Data Journalism, and Fighting Fake News, [Fast Company Innovation Festival.](https://fastcompany.swoogo.com/innovationfestival18/about) Hosted by Columbia Journalism School, New York University, the International Consortium of Investigative Journalists (ICIJ), and Neo4j. New York, NY, 3:30 PM.
+
+10/29 [Beyond the Headlines: Media, Misinformation, and Democracy,](https://www.wfpg.org/mc/community/eventdetailsPrint.do?print=true&eventId=549323) a conversation with Anya Schriffrin, Director of the Technology, Media, and Communications Specialization at Columbia University's School of International and Public Affairs. Sponsored by the Women's Foreign Policy Group (WFPG) and IIE.
+
 
 
