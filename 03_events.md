@@ -5,19 +5,44 @@ permalink: /events/
 weight: 3
 ---
 
-## November
-
-11/2 AI in Journalism Symposium, Syracuse University, Syracuse, NY
-
-11/7 Reading and social event with [Cyrus Farivar,](https://www.mhpbooks.com/books/habeas-data/) author of *Habeas Data: Privacy vs. the Rise of Surveillance Tech.* [RSVP requested.](https://www.eventbrite.com/e/reading-habeas-data-and-artificial-unintelligence-tickets-50431983420) Molasses Books, Brooklyn, NY 
-
-11/9 Data for Good lecture, Columbia Data Science Institute.
-
-## December
-12/5 [Fantastic Futures conference](https://www.nb.no/artikler/fantastic-futures/), Oslo, Norway
-
 ## January
+
+1/11 [Data for Black Lives](http://d4bl.org/conference.html), Boston, MA
+
 1/24 [Zee Jaipur Literary Festival](https://jaipurliteraturefestival.org/), Jaipur, India
+
+## February
+
+2/4 [NYC Digital Humanities Week](http://dhweek.nycdh.org/), New York, NY
+
+2/20 Brown University
+
+## March
+
+3/7 [NICAR](https://www.ire.org/conferences/nicar-2019/), Newport Beach, CA
+
+3/10 [SXSW: AI & the Future of Journalism](https://schedule.sxsw.com/2019/events/PP84164), Austin, TX
+
+3/26 Grand Valley State University
+
+3/28 NYU
+
+## April
+
+4/4 Virginia Tech
+
+4/13 Autonomous car debate, NYC
+
+## May
+
+5/29 ICA, Washington, DC
+
+## June
+
+6/12 Columbia University
+
+6/29 LITA, Washington, DC
+
 
 ## Past Events
 
@@ -79,5 +104,15 @@ weight: 3
 
 10/29 [Beyond the Headlines: Media, Misinformation, and Democracy,](https://www.wfpg.org/mc/community/eventdetailsPrint.do?print=true&eventId=549323) a conversation with Anya Schriffrin, Director of the Technology, Media, and Communications Specialization at Columbia University's School of International and Public Affairs. Sponsored by the Women's Foreign Policy Group (WFPG) and IIE.
 
+## November
+
+11/2 AI in Journalism Symposium, Syracuse University, Syracuse, NY
+
+11/7 Reading and social event with [Cyrus Farivar,](https://www.mhpbooks.com/books/habeas-data/) author of *Habeas Data: Privacy vs. the Rise of Surveillance Tech.* [RSVP requested.](https://www.eventbrite.com/e/reading-habeas-data-and-artificial-unintelligence-tickets-50431983420) Molasses Books, Brooklyn, NY 
+
+11/9 Data for Good lecture, Columbia Data Science Institute.
+
+## December
+12/5 [Fantastic Futures conference](https://www.nb.no/artikler/fantastic-futures/), Oslo, Norway
 
 
