@@ -5,17 +5,14 @@ permalink: /events/
 weight: 3
 ---
 
-## January
-
-1/11 [Data for Black Lives](http://d4bl.org/conference.html), Boston, MA
-
-1/24 [Zee Jaipur Literary Festival](https://jaipurliteraturefestival.org/), Jaipur, India
 
 ## February
 
 2/4 [NYC Digital Humanities Week](http://dhweek.nycdh.org/), New York, NY
 
-2/20 Brown University
+2/8 Vanguard of the Techlash: Will Antitrust Offer a Way Forward? Washington, DC
+
+2/20 [Algorithmic Justice: Race, Bias, and Big Data](https://events.brown.edu/race-ethnicity/view/event/event_id/102793) Brown University Data Science Initiative and the Center for the Study of Race and Ethnicity in America, Providence, RI
 
 ## March
 
@@ -25,9 +22,13 @@ weight: 3
 
 3/26 Grand Valley State University
 
-3/28 NYU
+3/28 Critical Race and Digital Studies Symposium: Law, Big Data, and Artificial Intelligence, NYU Media, Culture, and Communication Event Series, New York, NY
+
+3/29 [UVA Women in Data Science Conference](https://datascience.virginia.edu/pages/wids-2019-keynote-speakers), Charlottesville, VA 
 
 ## April
+
+4/1 [Co-opting AI](https://ipk.nyu.edu/events/co-opting-ai-machines/), Institute for Public Knowledge, NYU, New York, NY
 
 4/4 Virginia Tech
 
@@ -35,13 +36,13 @@ weight: 3
 
 ## May
 
-5/29 ICA, Washington, DC
+5/28 Critical Race & Digital Studies conference, ICA, Washington, DC
 
 ## June
 
 6/12 Columbia University
 
-6/29 LITA, Washington, DC
+6/29 [LITA](https://twitter.com/bohyunkim/status/1088516667955503104), Washington, DC
 
 
 ## Past Events
@@ -114,5 +115,11 @@ weight: 3
 
 ## December
 12/5 [Fantastic Futures conference](https://www.nb.no/artikler/fantastic-futures/), Oslo, Norway
+
+## January
+
+1/11 [Data for Black Lives](http://d4bl.org/conference.html), Boston, MA
+
+1/24 [Zee Jaipur Literary Festival](https://jaipurliteraturefestival.org/), Jaipur, India
 
 
