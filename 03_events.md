@@ -12,7 +12,11 @@ weight: 3
 
 2/8 Vanguard of the Techlash: Will Antitrust Offer a Way Forward? Washington, DC
 
-2/20 [Algorithmic Justice: Race, Bias, and Big Data](https://events.brown.edu/race-ethnicity/view/event/event_id/102793) Brown University Data Science Initiative and the Center for the Study of Race and Ethnicity in America, Providence, RI
+2/19 **What Lurks Beneath: Digital Devices, Security, and the Future of Tech Privacy,** NYU Arthur L. Carter Journalism Institute, New York, NY
+
+Meredith Broussard, author of  “Artificial Unintelligence: How Computers Misunderstand the World" (MIT Press, 2018), and Josephine Wolff, author of "You'll See This Message When It Is Too Late: The Legal and Economic Aftermath of Cybersecurity Breaches" (MIT Press, 2018), discuss the challenges of writing about the threats and risks posed by new technologies. At a moment when technology firms seem to be increasingly under fire from regulators in the U.S. and abroad, but more and more devices continue to be networked and controlled by computers, what are realistic and effective solutions for addressing societal  concerns about emerging technologies? How can journalists, technologists, and policy-makers describe these risks in non-hyperbolic terms that effectively convey the stakes of our decisions about how to grapple with technology without ignoring or erasing all of the positive impacts these same innovations have had? At this moment of intense scrutiny on the major tech firms, what measures might it make sense to try to put in place to preserve security, privacy, and fairness and who is best poised to make that happen?
+
+2/20 [Algorithmic Justice: Race, Bias, and Big Data](https://events.brown.edu/race-ethnicity/view/event/event_id/102793), Brown University Data Science Initiative and the Center for the Study of Race and Ethnicity in America, Providence, RI
 
 ## March
 
@@ -28,7 +32,7 @@ weight: 3
 
 ## April
 
-4/1 [Co-opting AI](https://ipk.nyu.edu/events/co-opting-ai-machines/), Institute for Public Knowledge, NYU, New York, NY
+4/1 [Co-opting AI](https://ipk.nyu.edu/events/co-opting-ai-machines/), NYU Institute for Public Knowledge, New York, NY
 
 4/4 Virginia Tech
 
@@ -46,6 +50,10 @@ weight: 3
 
 
 ## Past Events
+
+## 2018
+
+## March
 
 3/9 [Panel on archiving news apps,](https://ire.org/conferences/nicar18/) NICAR conference, Chicago, IL
 
@@ -115,6 +123,8 @@ weight: 3
 
 ## December
 12/5 [Fantastic Futures conference](https://www.nb.no/artikler/fantastic-futures/), Oslo, Norway
+
+## 2019
 
 ## January
 
