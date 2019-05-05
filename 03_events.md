@@ -15,6 +15,8 @@ Scientific and Cultural Organization (UNESCO), New York, NY
 
 5/9 [Association of Research Libraries](https://www.arl.org/events/upcoming-events/event/255), Minneapolis, MN
 
+5/23 [Machines + Media 2019](https://nycmedialab.org/machines-media-2019), NYC Media Lab & Bloomberg, New York, NY
+
 5/28 [Race, Technology, and the Future: Setting the Agenda](https://criticalracedigitalstudies.com/conference2019/), Critical Race & Digital Studies conference, ICA, Washington, DC
 
 ## June
@@ -24,6 +26,10 @@ Scientific and Cultural Organization (UNESCO), New York, NY
 6/14 [Fordham University Faculty Technology Day](https://www.fordham.edu/ftd), New York, NY
 
 6/29 [LITA ALA Annual Presidents Program](https://litablog.org/2019/04/lita-ala-annual-presidents-program-meredith-broussard-presents-on-artificial-unintelligence/), Washington, DC
+
+## July
+
+7/2 [European Data & Computational Journalism Conference](http://datajconf.com/#schedule), Malaga, Spain
 
 
 ## Past Events
