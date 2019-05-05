@@ -6,47 +6,24 @@ weight: 3
 ---
 
 
-## February
-
-2/4 [NYC Digital Humanities Week](http://dhweek.nycdh.org/), New York, NY
-
-2/8 Vanguard of the Techlash: Will Antitrust Offer a Way Forward? Washington, DC
-
-2/19 **What Lurks Beneath: Digital Devices, Security, and the Future of Tech Privacy,** NYU Arthur L. Carter Journalism Institute, New York, NY
-
-Meredith Broussard, author of  “Artificial Unintelligence: How Computers Misunderstand the World" (MIT Press, 2018), and Josephine Wolff, author of "You'll See This Message When It Is Too Late: The Legal and Economic Aftermath of Cybersecurity Breaches" (MIT Press, 2018), discuss the challenges of writing about the threats and risks posed by new technologies. At a moment when technology firms seem to be increasingly under fire from regulators in the U.S. and abroad, but more and more devices continue to be networked and controlled by computers, what are realistic and effective solutions for addressing societal  concerns about emerging technologies? How can journalists, technologists, and policy-makers describe these risks in non-hyperbolic terms that effectively convey the stakes of our decisions about how to grapple with technology without ignoring or erasing all of the positive impacts these same innovations have had? At this moment of intense scrutiny on the major tech firms, what measures might it make sense to try to put in place to preserve security, privacy, and fairness and who is best poised to make that happen?
-
-2/20 [Algorithmic Justice: Race, Bias, and Big Data](https://events.brown.edu/race-ethnicity/view/event/event_id/102793), Brown University Data Science Initiative and the Center for the Study of Race and Ethnicity in America, Providence, RI
-
-## March
-
-3/7 [NICAR](https://www.ire.org/conferences/nicar-2019/), Newport Beach, CA
-
-3/10 [SXSW: AI & the Future of Journalism](https://schedule.sxsw.com/2019/events/PP84164), Austin, TX
-
-3/26 Grand Valley State University
-
-3/28 Critical Race and Digital Studies Symposium: Law, Big Data, and Artificial Intelligence, NYU Media, Culture, and Communication Event Series, New York, NY
-
-3/29 [UVA Women in Data Science Conference](https://datascience.virginia.edu/pages/wids-2019-keynote-speakers), Charlottesville, VA 
-
-## April
-
-4/1 [Co-opting AI](https://ipk.nyu.edu/events/co-opting-ai-machines/), NYU Institute for Public Knowledge, New York, NY
-
-4/4 Virginia Tech
-
-4/13 Autonomous car debate, NYC
-
 ## May
 
-5/28 Critical Race & Digital Studies conference, ICA, Washington, DC
+5/4 [World Press Freedom Day 2019, Media for Democracy: Journalism and Elections in Times of Disinformation](https://outreach.un.org/ngorelations/sites/outreach.un.org/files/rsvp_wpfd_media_for_democracy_as_of_12_april_2019.pdf), United Nations Department of Global Communications (DGC) in partnership with the United Nations Educational
+Scientific and Cultural Organization (UNESCO), New York, NY
+
+5/8 [What is AI?](https://newyorklivearts.org/event/what-is-ai/) Keynote/Performance at New York Live Arts, New York, NY
+
+5/9 [Association of Research Libraries](https://www.arl.org/events/upcoming-events/event/255), Minneapolis, MN
+
+5/28 [Race, Technology, and the Future: Setting the Agenda](https://criticalracedigitalstudies.com/conference2019/), Critical Race & Digital Studies conference, ICA, Washington, DC
 
 ## June
 
-6/12 Columbia University
+6/12 Columbia University lecture on e-learning
 
-6/29 [LITA](https://twitter.com/bohyunkim/status/1088516667955503104), Washington, DC
+6/14 [Fordham University Faculty Technology Day](https://www.fordham.edu/ftd), New York, NY
+
+6/29 [LITA ALA Annual Presidents Program](https://litablog.org/2019/04/lita-ala-annual-presidents-program-meredith-broussard-presents-on-artificial-unintelligence/), Washington, DC
 
 
 ## Past Events
@@ -132,4 +109,36 @@ Meredith Broussard, author of  “Artificial Unintelligence: How Computers Misun
 
 1/24 [Zee Jaipur Literary Festival](https://jaipurliteraturefestival.org/), Jaipur, India
 
+## February
 
+2/4 [NYC Digital Humanities Week](http://dhweek.nycdh.org/), New York, NY
+
+2/8 Vanguard of the Techlash: Will Antitrust Offer a Way Forward? Washington, DC
+
+2/19 **What Lurks Beneath: Digital Devices, Security, and the Future of Tech Privacy,** NYU Arthur L. Carter Journalism Institute, New York, NY
+
+Meredith Broussard, author of  “Artificial Unintelligence: How Computers Misunderstand the World" (MIT Press, 2018), and Josephine Wolff, author of "You'll See This Message When It Is Too Late: The Legal and Economic Aftermath of Cybersecurity Breaches" (MIT Press, 2018), discuss the challenges of writing about the threats and risks posed by new technologies. At a moment when technology firms seem to be increasingly under fire from regulators in the U.S. and abroad, but more and more devices continue to be networked and controlled by computers, what are realistic and effective solutions for addressing societal  concerns about emerging technologies? How can journalists, technologists, and policy-makers describe these risks in non-hyperbolic terms that effectively convey the stakes of our decisions about how to grapple with technology without ignoring or erasing all of the positive impacts these same innovations have had? At this moment of intense scrutiny on the major tech firms, what measures might it make sense to try to put in place to preserve security, privacy, and fairness and who is best poised to make that happen?
+
+2/20 [Algorithmic Justice: Race, Bias, and Big Data](https://events.brown.edu/race-ethnicity/view/event/event_id/102793), Brown University Data Science Initiative and the Center for the Study of Race and Ethnicity in America, Providence, RI
+
+## March
+
+3/7 [NICAR](https://www.ire.org/conferences/nicar-2019/), Newport Beach, CA
+
+3/10 [SXSW: AI & the Future of Journalism](https://schedule.sxsw.com/2019/events/PP84164), Austin, TX
+
+3/26 Grand Valley State University
+
+3/28 Critical Race and Digital Studies Symposium: Law, Big Data, and Artificial Intelligence, NYU Media, Culture, and Communication Event Series, New York, NY
+
+3/29 [UVA Women in Data Science Conference](https://datascience.virginia.edu/pages/wids-2019-keynote-speakers), Charlottesville, VA 
+
+## April
+
+4/1 [Co-opting AI](https://ipk.nyu.edu/events/co-opting-ai-machines/), NYU Institute for Public Knowledge, New York, NY
+
+4/4 [Forum: Self Driving Cars in the New River Valley](https://vtnews.vt.edu/articles/2019/03/clahs-choices-and-challenges-forum.html), Virginia Tech, Blacksburg, VA
+
+4/10 [4GAMECHANGERS Festival 2019](https://4gamechangers.io/program/), Vienna, Austria
+
+4/13 [Intelligence Squared debate](https://www.intelligencesquaredus.org/) on autonomous cars, New York, NY 
