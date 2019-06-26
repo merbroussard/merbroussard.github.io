@@ -4,6 +4,8 @@ title: Other Writing
 permalink: /writing/
 weight: 4
 ---
+[Letting Go of Technochauvinism](https://www.publicbooks.org/letting-go-of-technochauvinism/): how to add nuance to the way we think about technology. *Public Books, June 2019*
+
 [The Dirty Truth Coming for Self-Driving Cars](https://slate.com/technology/2018/05/who-will-clean-self-driving-cars.html): Who will clean autonomous taxis? Nobody. Gross. *Slate*
 
 [Why the Scots are such a struggle for Alexa and Siri](http://www.heraldscotland.com/opinion/columnists/16219100.Agenda__Why_the_Scots_are_such_a_struggle_for_Alexa_and_Siri/): because technochauvinism. *Scotland Herald*
