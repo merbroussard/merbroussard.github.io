@@ -6,30 +6,25 @@ weight: 3
 ---
 
 
-## May
-
-5/4 [World Press Freedom Day 2019, Media for Democracy: Journalism and Elections in Times of Disinformation](https://outreach.un.org/ngorelations/sites/outreach.un.org/files/rsvp_wpfd_media_for_democracy_as_of_12_april_2019.pdf), United Nations Department of Global Communications (DGC) in partnership with the United Nations Educational
-Scientific and Cultural Organization (UNESCO), New York, NY
-
-5/8 [What is AI?](https://newyorklivearts.org/event/what-is-ai/) Keynote/Performance at New York Live Arts, New York, NY
-
-5/9 [Association of Research Libraries](https://www.arl.org/events/upcoming-events/event/255), Minneapolis, MN
-
-5/23 [Machines + Media 2019](https://nycmedialab.org/machines-media-2019), NYC Media Lab & Bloomberg, New York, NY
-
-5/28 [Race, Technology, and the Future: Setting the Agenda](https://criticalracedigitalstudies.com/conference2019/), Critical Race & Digital Studies conference, ICA, Washington, DC
-
-## June
-
-6/12 Columbia University lecture on e-learning
-
-6/14 [Fordham University Faculty Technology Day](https://www.fordham.edu/ftd), New York, NY
-
-6/29 [LITA ALA Annual Presidents Program](https://litablog.org/2019/04/lita-ala-annual-presidents-program-meredith-broussard-presents-on-artificial-unintelligence/), Washington, DC
-
 ## July
 
 7/2 [European Data & Computational Journalism Conference](http://datajconf.com/#schedule), Malaga, Spain
+
+## August
+
+8/23 [European Forum Alpbach Technology Symposium](https://www.alpbach.org/en/forum/forum2019/), Alpbach, Austria
+
+## September
+
+9/13 [Strange Loop conference keynote](https://www.thestrangeloop.com/schedule.html), St. Louis, MO
+
+## October
+
+10/22 Internet Librarian conference, Monterey, CA
+
+## January
+
+Date TK, Oxford University
 
 
 ## Past Events
@@ -148,3 +143,25 @@ Meredith Broussard, author of  “Artificial Unintelligence: How Computers Misun
 4/10 [4GAMECHANGERS Festival 2019](https://4gamechangers.io/program/), Vienna, Austria
 
 4/13 [Intelligence Squared debate](https://www.intelligencesquaredus.org/) on autonomous cars, New York, NY 
+
+## May
+
+5/4 [World Press Freedom Day 2019, Media for Democracy: Journalism and Elections in Times of Disinformation](https://outreach.un.org/ngorelations/sites/outreach.un.org/files/rsvp_wpfd_media_for_democracy_as_of_12_april_2019.pdf), United Nations Department of Global Communications (DGC) in partnership with the United Nations Educational
+Scientific and Cultural Organization (UNESCO), New York, NY
+
+5/8 [What is AI?](https://newyorklivearts.org/event/what-is-ai/) Keynote/Performance at New York Live Arts, New York, NY
+
+5/9 [Association of Research Libraries](https://www.arl.org/events/upcoming-events/event/255), Minneapolis, MN
+
+5/23 [Machines + Media 2019](https://nycmedialab.org/machines-media-2019), NYC Media Lab & Bloomberg, New York, NY
+
+5/28 [Race, Technology, and the Future: Setting the Agenda](https://criticalracedigitalstudies.com/conference2019/), Critical Race & Digital Studies conference, ICA, Washington, DC
+
+## June
+
+6/12 Columbia University lecture on e-learning
+
+6/14 [Fordham University Faculty Technology Day](https://www.fordham.edu/ftd), New York, NY
+
+6/29 [LITA ALA Annual Presidents Program](https://litablog.org/2019/04/lita-ala-annual-presidents-program-meredith-broussard-presents-on-artificial-unintelligence/), Washington, DC
+
