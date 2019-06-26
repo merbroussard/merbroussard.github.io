@@ -9,6 +9,9 @@ In *[Artificial Unintelligence,](https://www.amazon.com/Artificial-Unintelligenc
 
 Making a case against *technochauvinism*—the belief that technology is always the solution—Broussard argues that it’s just not true that social problems would inevitably retreat before a digitally enabled Utopia. To prove her point, she undertakes a series of adventures in computer programming. She goes for an alarming ride in a driverless car, concluding “the cyborg future is not coming any time soon”; uses artificial intelligence to investigate why students can’t pass standardized tests; deploys machine learning to predict which passengers survived the Titanic disaster; and attempts to repair the U.S. campaign finance system by building AI software. If we understand the limits of what we can do with technology, Broussard tells us, we can make better choices about what we should do with it to make the world better for everyone.
 
+*Artificial Unintelligence* received the [2019 PROSE Award](https://proseawards.com/winners/2019-award-winners/) 
+from the Association of American Publishers as the year's best book in computing and information sciences.
+
 **The book in the media:**
 
 [How computers misunderstand the world](https://www.theverge.com/2018/5/23/17384324/meredith-broussard-artifical-unintelligence-technology-criticism-technochauvinism): *The Verge*
