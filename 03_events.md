@@ -5,11 +5,6 @@ permalink: /events/
 weight: 3
 ---
 
-
-## July
-
-7/2 [European Data & Computational Journalism Conference](http://datajconf.com/#schedule), Malaga, Spain
-
 ## August
 
 8/23 [European Forum Alpbach Technology Symposium](https://www.alpbach.org/en/forum/forum2019/), Alpbach, Austria
@@ -20,7 +15,15 @@ weight: 3
 
 ## October
 
+10/10 Temple University, Philadelphia, PA
+
+10/17 Michigan Technological University
+
 10/22 Internet Librarian conference, Monterey, CA
+
+## November
+
+11/8 Science journalism workshop, Boston, MA
 
 ## January
 
@@ -164,4 +167,8 @@ Scientific and Cultural Organization (UNESCO), New York, NY
 6/14 [Fordham University Faculty Technology Day](https://www.fordham.edu/ftd), New York, NY
 
 6/29 [LITA ALA Annual Presidents Program](https://litablog.org/2019/04/lita-ala-annual-presidents-program-meredith-broussard-presents-on-artificial-unintelligence/), Washington, DC
+
+## July
+
+7/2 [European Data & Computational Journalism Conference](http://datajconf.com/#schedule), Malaga, Spain
 
