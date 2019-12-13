@@ -4,6 +4,9 @@ title: Other Writing
 permalink: /writing/
 weight: 4
 ---
+[When Binary Code Won’t Accommodate Nonbinary People](https://slate.com/technology/2019/10/gender-binary-nonbinary-code-databases-values.html): The next frontier in gender rights is inside databases.  *Slate* 
+(The idea for this story came from talking to [Jonathan Van Ness](https://www.jonathanvanness.com) on his podcast ["Getting Curious with Jonathan Van Ness."](https://www.stitcher.com/podcast/earwolf/getting-curious-with-jonathan-van-ness/e/63358696))
+
 [Letting Go of Technochauvinism](https://www.publicbooks.org/letting-go-of-technochauvinism/): how to add nuance to the way we think about technology. *Public Books, June 2019*
 
 [The Dirty Truth Coming for Self-Driving Cars](https://slate.com/technology/2018/05/who-will-clean-self-driving-cars.html): Who will clean autonomous taxis? Nobody. Gross. *Slate*
