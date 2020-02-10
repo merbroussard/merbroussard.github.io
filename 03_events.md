@@ -5,30 +5,7 @@ permalink: /events/
 weight: 3
 ---
 
-## August
-
-8/23 [European Forum Alpbach Technology Symposium](https://www.alpbach.org/en/forum/forum2019/), Alpbach, Austria
-
-## September
-
-9/13 [Strange Loop conference keynote](https://www.thestrangeloop.com/schedule.html), St. Louis, MO
-
-## October
-
-10/10 Temple University, Philadelphia, PA
-
-10/17 Michigan Technological University
-
-10/22 Internet Librarian conference, Monterey, CA
-
-## November
-
-11/8 Science journalism workshop, Boston, MA
-
-## January
-
-Date TK, Oxford University
-
+Events will resume in May 2020.
 
 ## Past Events
 
@@ -171,4 +148,25 @@ Scientific and Cultural Organization (UNESCO), New York, NY
 ## July
 
 7/2 [European Data & Computational Journalism Conference](http://datajconf.com/#schedule), Malaga, Spain
+
+## August
+
+8/23 [European Forum Alpbach Technology Symposium](https://www.alpbach.org/en/forum/forum2019/), Alpbach, Austria
+
+## September
+
+9/13 [Strange Loop conference keynote](https://www.thestrangeloop.com/schedule.html), St. Louis, MO
+
+## October
+
+10/10 Temple University, Philadelphia, PA
+
+10/17 Michigan Technological University
+
+10/22 Internet Librarian conference, Monterey, CA
+
+## November
+
+11/8 Science journalism workshop, Boston, MA
+
 
