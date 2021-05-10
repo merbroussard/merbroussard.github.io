@@ -4,6 +4,8 @@ title: Other Writing
 permalink: /writing/
 weight: 4
 ---
+[When Algorithms Give Real Students Imaginary Grades](https://www.nytimes.com/2020/09/08/opinion/international-baccalaureate-algorithm-grades.html): In-person final exams were canceled for thousands of students in Spring 2020, so computers stepped in — to disastrous effect. *The New York Times, September 2020*
+
 [When Binary Code Won’t Accommodate Nonbinary People](https://slate.com/technology/2019/10/gender-binary-nonbinary-code-databases-values.html): The next frontier in gender rights is inside databases.  *Slate* 
 (The idea for this story came from talking to [Jonathan Van Ness](https://www.jonathanvanness.com) on his podcast ["Getting Curious with Jonathan Van Ness."](https://www.stitcher.com/podcast/earwolf/getting-curious-with-jonathan-van-ness/e/63358696))
 
